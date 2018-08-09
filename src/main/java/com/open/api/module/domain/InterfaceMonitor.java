@@ -14,9 +14,9 @@ import java.util.Date;
 /**
  * <p>Title: InterfaceMonitor . </p>
  * <p>接口监控  </p>
- * <p>Company: http://www.hnxianyi.com </p>
  *
- * @author <a href="xmt@hnxianyi.com"/>mt</a>
+ *
+ * @author <a href="xmt08sky@126.com"/>mt</a>
  * @CreateDate 2018-04-27 上午12:52
  */
 @Data

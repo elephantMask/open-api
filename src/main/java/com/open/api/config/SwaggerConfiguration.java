@@ -15,9 +15,9 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * <p>Title: SwaggerConfiguration . </p>
  * <p>Swagger配置文件  </p>
- * <p>Company: http://www.hnxianyi.com </p>
  *
- * @author <a href="xmt@hnxianyi.com"/>mt</a>
+ *
+ * @author <a href="xmt08sky@126.com"/>mt</a>
  * @CreateDate 2018-06-08 上午11:29
  */
 @Configuration

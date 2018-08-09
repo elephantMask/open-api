@@ -8,9 +8,8 @@ import org.springframework.stereotype.Component;
 /**
 * <p>Title: RedisUtil. </p>
 * <p>Description  </p>
-* <p>Company: http://www.hnxianyi.com </p>
 
-* @Author <a href="xmt@hnxianyi.com"/>mint</a> 2017/5/3 下午4:05
+* @Author <a href="xmt08sky@126.com"/>mint</a> 2017/5/3 下午4:05
 * @CreateDate 2017/5/3 下午4:05
 */
 

@@ -7,9 +7,9 @@ import org.springframework.stereotype.Repository;
 /**
  * <p>Title: InterfaceDefinitionMapper . </p>
  * <p>接口定义  </p>
- * <p>Company: http://www.hnxianyi.com </p>
  *
- * @author <a href="xmt@hnxianyi.com"/>mt</a>
+ *
+ * @author <a href="xmt08sky@126.com"/>mt</a>
  * @CreateDate 2018-04-29 下午1:08
  */
 @Repository

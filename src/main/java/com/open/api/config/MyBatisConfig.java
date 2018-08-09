@@ -18,9 +18,9 @@ import java.util.Properties;
 /**
 * <p>Title: MyBatisConfig. </p>
 * <p>mybatis配置文件  </p>
-* <p>Company: http://www.hnxianyi.com </p>
+*
 
-* @author <a href="xmt@hnxianyi.com"/>mint</a> 2018/5/2 下午4:05
+* @author <a href="xmt08sky@126.com"/>mint</a> 2018/5/2 下午4:05
 * @CreateDate 2018/5/2 下午4:05
 */
 @Configuration

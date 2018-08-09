@@ -17,9 +17,9 @@ import java.sql.Wrapper;
 /**
  * <p>Title: InterfaceMonitorController . </p>
  * <p>接口测试类  </p>
- * <p>Company: http://www.hnxianyi.com </p>
  *
- * @author <a href="xmt@hnxianyi.com"/>mt</a>
+ *
+ * @author <a href="xmt08sky@126.com"/>mt</a>
  * @CreateDate 2018-05-03 上午11:44
  */
 @Controller
