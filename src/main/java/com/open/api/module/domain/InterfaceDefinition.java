@@ -25,7 +25,6 @@ public class InterfaceDefinition implements Serializable {
 
     private static final long serialVersionUID = 357364012694095112L;
     @Id
-    @GeneratedValue(generator ="UUID" )
     @Column(name = "id")
     @ApiModelProperty("主键")
     private String id;

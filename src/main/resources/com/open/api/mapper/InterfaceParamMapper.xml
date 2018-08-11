@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.open.api.mapper.InterfaceParamMapper">
+    <resultMap id="BaseResultMap" type="com.open.api.module.domain.InterfaceParam">
+        <id column="id" property="id" jdbcType="VARCHAR"/>
+        <result column="param_code" property="paramCode" jdbcType="VARCHAR"/>
+        <result column="interface_code" property="interfaceCode" jdbcType="VARCHAR"/>
+        <result column="param_name" property="paramName" jdbcType="VARCHAR"/>
+        <result column="required" property="required" jdbcType="INTEGER"/>
+        <result column="validate_length" property="validateLength" jdbcType="INTEGER"/>
+        <result column="validate_type" property="validateType" jdbcType="VARCHAR"/>
+        <result column="validate_content" property="validateContent" jdbcType="VARCHAR"/>
+        <result column="notes" property="notes" jdbcType="VARCHAR"/>
+    </resultMap>
+
+</mapper>

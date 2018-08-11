@@ -3,6 +3,7 @@ package com.open.api.service.interfacemanager.impl;
 import com.open.api.module.domain.InterfaceDefinition;
 import com.open.api.service.BaseService;
 import com.open.api.service.interfacemanager.InterfaceDefinitionService;
+import com.open.api.util.ObjectId;
 import com.open.api.util.PubUtils;
 import org.springframework.stereotype.Service;
 
@@ -20,6 +21,7 @@ public class InterfaceDefinitionServiceImpl extends BaseService<InterfaceDefinit
 
     @Override
     public int insertInterface(InterfaceDefinition interfaceDefinition) {
+        interfaceDefinition.setId(ObjectId.id());
         return save(interfaceDefinition);
     }
 
